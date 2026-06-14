@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Env
+.env
+.env.*
+
+# Venv
+venv/
+backend/venv/
+
+# Node
+node_modules/
+
+# Build
+dist/
+build/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Chroma DB
+chroma_db/
+
+# VS Code
+.vscode/
+
+# Uploads
+uploads/
+
+backend/uploaded_docs/
+backend/docs/*.pdf.env
